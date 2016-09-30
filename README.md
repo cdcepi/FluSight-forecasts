@@ -19,7 +19,7 @@ Submissions are structured in an identical matter. Each submission consists of t
 
 ## Forecast targets
 Each submission consists of forecasts for the following targets:
-* **Season onset:** The [MMWR surveillance week](http://wwwn.cdc.gov/nndss/script/downloads.aspx) when the percentage of visits for influenza-like illness (ILI) reported through ILINet reaches or exceeds the baseline value for three consecutive weeks. Forecasted “onset” week values are for the first week of that three week period.
+* **Season onset:** The [MMWR surveillance week](http://wwwn.cdc.gov/nndss/script/downloads.aspx) when the percentage of visits for influenza-like illness (ILI) reported through ILINet reaches or exceeds the [baseline](https://github.com/cdcepi/FluSight-forecasts/blob/master/wILI_Baseline.csv) value for three consecutive weeks. Forecasted “onset” week values are for the first week of that three week period.
 * **Peak week:** The MMWR surveillance week that the weighted ILINet percentage is the highest for a given influenza season. 
 * **Peak percentage:** The highest numeric value that the weighted ILINet percentage reaches during a given influenza season.
 * **1 wk ahead:** Weighted ILINet percentage for the MMRW week following the last week of data used to generate the forecast
