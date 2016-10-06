@@ -4,9 +4,6 @@ This repository contains forecasts submitted to CDC as part of the [FluSight](ht
 ### FluSight Challenge
 Since 2013, the Influenza Division at CDC has worked with external researchers to improve the science and usability of influenza forecasts by coordinating seasonal influenza prediction challenges. Teams create models to predict seasonal and short-term targets related to seasonal influenza and submit weekly forecasts to CDC. More information and visualizations of forecasts can be found at the FluSight [website](https://predict.phiresearchlab.org/legacy/flu/index.html).
 
-### Past baseline wILI values
-Baseline weighted ILI values from previous seasons at both the national and HHS regional level are available in the [wILI_Baseline]( https://github.com/cdcepi/FluSight-forecasts/blob/master/wILI_Baseline.csv) CSV file.
-
 ### Data organization
 Forecast submissions are organized by season, and within each season by team name or number. Submissions labeled with the same name or number across seasons were developed using the same methodology. Submissions are labeled in the format “EWXX-TeamXX-YYYY-MM-DD.csv”, where
 * **EWXX** is the latest MMWR week of data used in the forecast
@@ -32,3 +29,6 @@ Each submission consists of forecasts for the following targets:
 * **2 wk ahead:** Weighted ILINet percentage for the MMWR week two weeks after the last week of data used to generate the forecast
 * **3 wk ahead:** Weighted ILINet percentage for the MMWR week three weeks after the last week of data used to generate the forecast
 * **4 wk ahead:** Weighted ILINet percentage for the MMWR week four weeks after the last week of data used to generate the forecast
+
+### Past baseline wILI values
+Baseline weighted ILI values from previous seasons at both the national and HHS regional level are available in the [wILI_Baseline]( https://github.com/cdcepi/FluSight-forecasts/blob/master/wILI_Baseline.csv) CSV file.
