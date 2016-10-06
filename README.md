@@ -1,7 +1,7 @@
 # FluSight Forecasts
 This repository contains forecasts submitted to CDC as part of the [FluSight](https://predict.phiresearchlab.org/legacy/flu/index.html) influenza forecasting challenge. It is being provided as a resource to help develop ensemble models and additional methods for intepreting/visualizing forecasts. Forecast data are publically contributed by the teams involved in the challenge. They are not official CDC forecasts and are not endorsed by CDC. 
 
-### FluSight Challenge
+### FluSight challenge
 Since 2013, the Influenza Division at CDC has worked with external researchers to improve the science and usability of influenza forecasts by coordinating seasonal influenza prediction challenges. Teams create models to predict seasonal and short-term targets related to seasonal influenza and submit weekly forecasts to CDC. More information and visualizations of forecasts can be found at the FluSight [website](https://predict.phiresearchlab.org/legacy/flu/index.html).
 
 ### Data organization
