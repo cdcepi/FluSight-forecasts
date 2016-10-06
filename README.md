@@ -32,3 +32,6 @@ Each submission consists of forecasts for the following targets:
 
 ### Past baseline wILI values
 Baseline weighted ILI values from previous seasons at both the national and HHS regional level are available in the [wILI_Baseline]( https://github.com/cdcepi/FluSight-forecasts/blob/master/wILI_Baseline.csv) CSV file.
+
+### Current submission template
+The submission template for the 2016-2017 challenge is available in the [2016-2017_submission_template](https://github.com/cdcepi/FluSight-forecasts/blob/master/2016-2017_submission_template.csv) CSV file.
