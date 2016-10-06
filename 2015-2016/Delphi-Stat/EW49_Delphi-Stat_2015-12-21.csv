@@ -95,7 +95,7 @@
 "US National","Season peak week","Bin","week","11.5","12",0.00300583719442361
 "US National","Season peak week","Bin","week","12","12.5",0.00300583719442361
 "US National","Season peak week","Bin","week","12.5","13",0.00300583719442361
-"US National","Season peak week","Bin","week","13",NA,0.00300583719442361
+"US National","Season peak week","Bin","week","13","100",0.00300583719442361
 "US National","1 wk ahead","Point","percent",NA,NA,2.4
 "US National","1 wk ahead","Bin","week","0","0.5",0.0036002083726253
 "US National","1 wk ahead","Bin","week","0.5","1",0.0036002083726253
@@ -123,7 +123,7 @@
 "US National","1 wk ahead","Bin","week","11.5","12",0.0036002083726253
 "US National","1 wk ahead","Bin","week","12","12.5",0.0036002083726253
 "US National","1 wk ahead","Bin","week","12.5","13",0.0036002083726253
-"US National","1 wk ahead","Bin","week","13",NA,0.0036002083726253
+"US National","1 wk ahead","Bin","week","13","100",0.0036002083726253
 "US National","2 wk ahead","Point","percent",NA,NA,3.1
 "US National","2 wk ahead","Bin","week","0","0.5",0.00378831149159276
 "US National","2 wk ahead","Bin","week","0.5","1",0.0042848988235979
@@ -151,7 +151,7 @@
 "US National","2 wk ahead","Bin","week","11.5","12",0.00368306480824529
 "US National","2 wk ahead","Bin","week","12","12.5",0.00368306480824529
 "US National","2 wk ahead","Bin","week","12.5","13",0.00368306480824529
-"US National","2 wk ahead","Bin","week","13",NA,0.00368306480824529
+"US National","2 wk ahead","Bin","week","13","100",0.00368306480824529
 "US National","3 wk ahead","Point","percent",NA,NA,3.4
 "US National","3 wk ahead","Bin","week","0","0.5",0.00293705202676561
 "US National","3 wk ahead","Bin","week","0.5","1",0.00293705403881703
@@ -179,7 +179,7 @@
 "US National","3 wk ahead","Bin","week","11.5","12",0.00293705152375275
 "US National","3 wk ahead","Bin","week","12","12.5",0.00293705152375275
 "US National","3 wk ahead","Bin","week","12.5","13",0.00293705152375275
-"US National","3 wk ahead","Bin","week","13",NA,0.00293705152375275
+"US National","3 wk ahead","Bin","week","13","100",0.00293705152375275
 "US National","4 wk ahead","Point","percent",NA,NA,2.9
 "US National","4 wk ahead","Bin","week","0","0.5",0.00152665886284758
 "US National","4 wk ahead","Bin","week","0.5","1",0.00189414666220852
@@ -207,7 +207,7 @@
 "US National","4 wk ahead","Bin","week","11.5","12",0.00121656284765885
 "US National","4 wk ahead","Bin","week","12","12.5",0.00121656284765885
 "US National","4 wk ahead","Bin","week","12.5","13",0.00121656284765885
-"US National","4 wk ahead","Bin","week","13",NA,0.00121656284765885
+"US National","4 wk ahead","Bin","week","13","100",0.00121656284765885
 "HHS Region 1","Season onset","Point","week",NA,NA,2.00000000000048
 "HHS Region 1","Season onset","Bin","week","40","41",0.000729217306757414
 "HHS Region 1","Season onset","Bin","week","41","42",0.000729217306757414
@@ -304,7 +304,7 @@
 "HHS Region 1","Season peak week","Bin","week","11.5","12",0.00300583719442361
 "HHS Region 1","Season peak week","Bin","week","12","12.5",0.00300583719442361
 "HHS Region 1","Season peak week","Bin","week","12.5","13",0.00300583719442361
-"HHS Region 1","Season peak week","Bin","week","13",NA,0.00300583719442361
+"HHS Region 1","Season peak week","Bin","week","13","100",0.00300583719442361
 "HHS Region 1","1 wk ahead","Point","percent",NA,NA,0.9
 "HHS Region 1","1 wk ahead","Bin","week","0","0.5",0.00420228769562432
 "HHS Region 1","1 wk ahead","Bin","week","0.5","1",0.57990634787215
@@ -332,7 +332,7 @@
 "HHS Region 1","1 wk ahead","Bin","week","11.5","12",0.0036002083726253
 "HHS Region 1","1 wk ahead","Bin","week","12","12.5",0.0036002083726253
 "HHS Region 1","1 wk ahead","Bin","week","12.5","13",0.0036002083726253
-"HHS Region 1","1 wk ahead","Bin","week","13",NA,0.0036002083726253
+"HHS Region 1","1 wk ahead","Bin","week","13","100",0.0036002083726253
 "HHS Region 1","2 wk ahead","Point","percent",NA,NA,1
 "HHS Region 1","2 wk ahead","Bin","week","0","0.5",0.00502209621781884
 "HHS Region 1","2 wk ahead","Bin","week","0.5","1",0.386137617159561
@@ -360,7 +360,7 @@
 "HHS Region 1","2 wk ahead","Bin","week","11.5","12",0.00368306480824529
 "HHS Region 1","2 wk ahead","Bin","week","12","12.5",0.00368306480824529
 "HHS Region 1","2 wk ahead","Bin","week","12.5","13",0.00368306480824529
-"HHS Region 1","2 wk ahead","Bin","week","13",NA,0.00368306480824529
+"HHS Region 1","2 wk ahead","Bin","week","13","100",0.00368306480824529
 "HHS Region 1","3 wk ahead","Point","percent",NA,NA,1.3
 "HHS Region 1","3 wk ahead","Bin","week","0","0.5",0.00620524111495829
 "HHS Region 1","3 wk ahead","Bin","week","0.5","1",0.151253797371578
@@ -388,7 +388,7 @@
 "HHS Region 1","3 wk ahead","Bin","week","11.5","12",0.00293705152375275
 "HHS Region 1","3 wk ahead","Bin","week","12","12.5",0.00293705152375275
 "HHS Region 1","3 wk ahead","Bin","week","12.5","13",0.00293705152375275
-"HHS Region 1","3 wk ahead","Bin","week","13",NA,0.00293705152375275
+"HHS Region 1","3 wk ahead","Bin","week","13","100",0.00293705152375275
 "HHS Region 1","4 wk ahead","Point","percent",NA,NA,1.3
 "HHS Region 1","4 wk ahead","Bin","week","0","0.5",0.0152746061029199
 "HHS Region 1","4 wk ahead","Bin","week","0.5","1",0.202560356088926
@@ -416,7 +416,7 @@
 "HHS Region 1","4 wk ahead","Bin","week","11.5","12",0.00121656284765885
 "HHS Region 1","4 wk ahead","Bin","week","12","12.5",0.00121656284765885
 "HHS Region 1","4 wk ahead","Bin","week","12.5","13",0.00121656284765885
-"HHS Region 1","4 wk ahead","Bin","week","13",NA,0.00121656284765885
+"HHS Region 1","4 wk ahead","Bin","week","13","100",0.00121656284765885
 "HHS Region 2","Season onset","Point","week",NA,NA,48.0000000000004
 "HHS Region 2","Season onset","Bin","week","40","41",0.000729217306757414
 "HHS Region 2","Season onset","Bin","week","41","42",0.000729217306757414
@@ -513,7 +513,7 @@
 "HHS Region 2","Season peak week","Bin","week","11.5","12",0.00300583719442361
 "HHS Region 2","Season peak week","Bin","week","12","12.5",0.00300583719442361
 "HHS Region 2","Season peak week","Bin","week","12.5","13",0.00300583719442361
-"HHS Region 2","Season peak week","Bin","week","13",NA,0.00300583719442361
+"HHS Region 2","Season peak week","Bin","week","13","100",0.00300583719442361
 "HHS Region 2","1 wk ahead","Point","percent",NA,NA,3.4
 "HHS Region 2","1 wk ahead","Bin","week","0","0.5",0.0036002083726253
 "HHS Region 2","1 wk ahead","Bin","week","0.5","1",0.0036002083726253
@@ -541,7 +541,7 @@
 "HHS Region 2","1 wk ahead","Bin","week","11.5","12",0.0036002083726253
 "HHS Region 2","1 wk ahead","Bin","week","12","12.5",0.0036002083726253
 "HHS Region 2","1 wk ahead","Bin","week","12.5","13",0.0036002083726253
-"HHS Region 2","1 wk ahead","Bin","week","13",NA,0.0036002083726253
+"HHS Region 2","1 wk ahead","Bin","week","13","100",0.0036002083726253
 "HHS Region 2","2 wk ahead","Point","percent",NA,NA,4.7
 "HHS Region 2","2 wk ahead","Bin","week","0","0.5",0.00436435526275731
 "HHS Region 2","2 wk ahead","Bin","week","0.5","1",0.00546960322422887
@@ -569,7 +569,7 @@
 "HHS Region 2","2 wk ahead","Bin","week","11.5","12",0.00368306480824529
 "HHS Region 2","2 wk ahead","Bin","week","12","12.5",0.00368306480824529
 "HHS Region 2","2 wk ahead","Bin","week","12.5","13",0.00368306480824529
-"HHS Region 2","2 wk ahead","Bin","week","13",NA,0.00368306480824529
+"HHS Region 2","2 wk ahead","Bin","week","13","100",0.00368306480824529
 "HHS Region 2","3 wk ahead","Point","percent",NA,NA,5.3
 "HHS Region 2","3 wk ahead","Bin","week","0","0.5",0.00303092331032411
 "HHS Region 2","3 wk ahead","Bin","week","0.5","1",0.00321010875715681
@@ -597,7 +597,7 @@
 "HHS Region 2","3 wk ahead","Bin","week","11.5","12",0.00293705152375275
 "HHS Region 2","3 wk ahead","Bin","week","12","12.5",0.00293705152375275
 "HHS Region 2","3 wk ahead","Bin","week","12.5","13",0.00293705152375275
-"HHS Region 2","3 wk ahead","Bin","week","13",NA,0.00293705152375275
+"HHS Region 2","3 wk ahead","Bin","week","13","100",0.00293705152375275
 "HHS Region 2","4 wk ahead","Point","percent",NA,NA,4
 "HHS Region 2","4 wk ahead","Bin","week","0","0.5",0.00221622749150877
 "HHS Region 2","4 wk ahead","Bin","week","0.5","1",0.00232298824919373
@@ -625,7 +625,7 @@
 "HHS Region 2","4 wk ahead","Bin","week","11.5","12",0.00121656284765885
 "HHS Region 2","4 wk ahead","Bin","week","12","12.5",0.00121656284765885
 "HHS Region 2","4 wk ahead","Bin","week","12.5","13",0.00121656284765885
-"HHS Region 2","4 wk ahead","Bin","week","13",NA,0.00121656284765885
+"HHS Region 2","4 wk ahead","Bin","week","13","100",0.00121656284765885
 "HHS Region 3","Season onset","Point","week",NA,NA,49.0000000000004
 "HHS Region 3","Season onset","Bin","week","40","41",0.000729217306757414
 "HHS Region 3","Season onset","Bin","week","41","42",0.000729217306757414
@@ -722,7 +722,7 @@
 "HHS Region 3","Season peak week","Bin","week","11.5","12",0.00328295954242733
 "HHS Region 3","Season peak week","Bin","week","12","12.5",0.00300583719442362
 "HHS Region 3","Season peak week","Bin","week","12.5","13",0.00300583719442362
-"HHS Region 3","Season peak week","Bin","week","13",NA,0.00300583719442361
+"HHS Region 3","Season peak week","Bin","week","13","100",0.00300583719442361
 "HHS Region 3","1 wk ahead","Point","percent",NA,NA,2.4
 "HHS Region 3","1 wk ahead","Bin","week","0","0.5",0.0036002083726253
 "HHS Region 3","1 wk ahead","Bin","week","0.5","1",0.00360020839035831
@@ -750,7 +750,7 @@
 "HHS Region 3","1 wk ahead","Bin","week","11.5","12",0.0036002083726253
 "HHS Region 3","1 wk ahead","Bin","week","12","12.5",0.0036002083726253
 "HHS Region 3","1 wk ahead","Bin","week","12.5","13",0.0036002083726253
-"HHS Region 3","1 wk ahead","Bin","week","13",NA,0.0036002083726253
+"HHS Region 3","1 wk ahead","Bin","week","13","100",0.0036002083726253
 "HHS Region 3","2 wk ahead","Point","percent",NA,NA,2.9
 "HHS Region 3","2 wk ahead","Bin","week","0","0.5",0.00441979159167754
 "HHS Region 3","2 wk ahead","Bin","week","0.5","1",0.00641903604179215
@@ -778,7 +778,7 @@
 "HHS Region 3","2 wk ahead","Bin","week","11.5","12",0.00368306480824529
 "HHS Region 3","2 wk ahead","Bin","week","12","12.5",0.00368306480824529
 "HHS Region 3","2 wk ahead","Bin","week","12.5","13",0.00368306480824529
-"HHS Region 3","2 wk ahead","Bin","week","13",NA,0.00368306480824529
+"HHS Region 3","2 wk ahead","Bin","week","13","100",0.00368306480824529
 "HHS Region 3","3 wk ahead","Point","percent",NA,NA,3.7
 "HHS Region 3","3 wk ahead","Bin","week","0","0.5",0.00293705202676561
 "HHS Region 3","3 wk ahead","Bin","week","0.5","1",0.00294558902653572
@@ -806,7 +806,7 @@
 "HHS Region 3","3 wk ahead","Bin","week","11.5","12",0.00293705152375275
 "HHS Region 3","3 wk ahead","Bin","week","12","12.5",0.00293705152375275
 "HHS Region 3","3 wk ahead","Bin","week","12.5","13",0.00293705152375275
-"HHS Region 3","3 wk ahead","Bin","week","13",NA,0.00293705152375275
+"HHS Region 3","3 wk ahead","Bin","week","13","100",0.00293705152375275
 "HHS Region 3","4 wk ahead","Point","percent",NA,NA,3.5
 "HHS Region 3","4 wk ahead","Bin","week","0","0.5",0.00153955671925124
 "HHS Region 3","4 wk ahead","Bin","week","0.5","1",0.00246381672005346
@@ -834,7 +834,7 @@
 "HHS Region 3","4 wk ahead","Bin","week","11.5","12",0.00121656284765885
 "HHS Region 3","4 wk ahead","Bin","week","12","12.5",0.00121656284765885
 "HHS Region 3","4 wk ahead","Bin","week","12.5","13",0.00121656284765885
-"HHS Region 3","4 wk ahead","Bin","week","13",NA,0.00121656284765885
+"HHS Region 3","4 wk ahead","Bin","week","13","100",0.00121656284765885
 "HHS Region 4","Season onset","Point","week",NA,NA,49.0000000000004
 "HHS Region 4","Season onset","Bin","week","40","41",0.000729217306757414
 "HHS Region 4","Season onset","Bin","week","41","42",0.000729217306757414
@@ -931,7 +931,7 @@
 "HHS Region 4","Season peak week","Bin","week","11.5","12",0.00300583719442361
 "HHS Region 4","Season peak week","Bin","week","12","12.5",0.00300583719442361
 "HHS Region 4","Season peak week","Bin","week","12.5","13",0.00300583719442361
-"HHS Region 4","Season peak week","Bin","week","13",NA,0.00300583719442361
+"HHS Region 4","Season peak week","Bin","week","13","100",0.00300583719442361
 "HHS Region 4","1 wk ahead","Point","percent",NA,NA,2
 "HHS Region 4","1 wk ahead","Bin","week","0","0.5",0.0036002083726253
 "HHS Region 4","1 wk ahead","Bin","week","0.5","1",0.00390092445703376
@@ -959,7 +959,7 @@
 "HHS Region 4","1 wk ahead","Bin","week","11.5","12",0.0036002083726253
 "HHS Region 4","1 wk ahead","Bin","week","12","12.5",0.0036002083726253
 "HHS Region 4","1 wk ahead","Bin","week","12.5","13",0.0036002083726253
-"HHS Region 4","1 wk ahead","Bin","week","13",NA,0.0036002083726253
+"HHS Region 4","1 wk ahead","Bin","week","13","100",0.0036002083726253
 "HHS Region 4","2 wk ahead","Point","percent",NA,NA,2.5
 "HHS Region 4","2 wk ahead","Bin","week","0","0.5",0.00508003270952007
 "HHS Region 4","2 wk ahead","Bin","week","0.5","1",0.00866321255205924
@@ -987,7 +987,7 @@
 "HHS Region 4","2 wk ahead","Bin","week","11.5","12",0.00368306480824529
 "HHS Region 4","2 wk ahead","Bin","week","12","12.5",0.00368306480824529
 "HHS Region 4","2 wk ahead","Bin","week","12.5","13",0.00368306480824529
-"HHS Region 4","2 wk ahead","Bin","week","13",NA,0.00368306480824529
+"HHS Region 4","2 wk ahead","Bin","week","13","100",0.00368306480824529
 "HHS Region 4","3 wk ahead","Point","percent",NA,NA,2.7
 "HHS Region 4","3 wk ahead","Bin","week","0","0.5",0.00297971489305054
 "HHS Region 4","3 wk ahead","Bin","week","0.5","1",0.00354434823926755
@@ -1015,7 +1015,7 @@
 "HHS Region 4","3 wk ahead","Bin","week","11.5","12",0.00293705152375275
 "HHS Region 4","3 wk ahead","Bin","week","12","12.5",0.00293705152375275
 "HHS Region 4","3 wk ahead","Bin","week","12.5","13",0.00293705152375275
-"HHS Region 4","3 wk ahead","Bin","week","13",NA,0.00293705152375275
+"HHS Region 4","3 wk ahead","Bin","week","13","100",0.00293705152375275
 "HHS Region 4","4 wk ahead","Point","percent",NA,NA,2.2
 "HHS Region 4","4 wk ahead","Bin","week","0","0.5",0.0072124408879485
 "HHS Region 4","4 wk ahead","Bin","week","0.5","1",0.0327651579865307
@@ -1043,7 +1043,7 @@
 "HHS Region 4","4 wk ahead","Bin","week","11.5","12",0.00121656284765885
 "HHS Region 4","4 wk ahead","Bin","week","12","12.5",0.00121656284765885
 "HHS Region 4","4 wk ahead","Bin","week","12.5","13",0.00121656284765885
-"HHS Region 4","4 wk ahead","Bin","week","13",NA,0.00121656284765885
+"HHS Region 4","4 wk ahead","Bin","week","13","100",0.00121656284765885
 "HHS Region 5","Season onset","Point","week",NA,NA,51.0000000000005
 "HHS Region 5","Season onset","Bin","week","40","41",0.000729217306757414
 "HHS Region 5","Season onset","Bin","week","41","42",0.000729217306757414
@@ -1140,7 +1140,7 @@
 "HHS Region 5","Season peak week","Bin","week","11.5","12",0.00300583719442361
 "HHS Region 5","Season peak week","Bin","week","12","12.5",0.00300583719442361
 "HHS Region 5","Season peak week","Bin","week","12.5","13",0.00300583719442361
-"HHS Region 5","Season peak week","Bin","week","13",NA,0.00300583719442361
+"HHS Region 5","Season peak week","Bin","week","13","100",0.00300583719442361
 "HHS Region 5","1 wk ahead","Point","percent",NA,NA,1.7
 "HHS Region 5","1 wk ahead","Bin","week","0","0.5",0.0036002083726253
 "HHS Region 5","1 wk ahead","Bin","week","0.5","1",0.00826163080669274
@@ -1168,7 +1168,7 @@
 "HHS Region 5","1 wk ahead","Bin","week","11.5","12",0.0036002083726253
 "HHS Region 5","1 wk ahead","Bin","week","12","12.5",0.0036002083726253
 "HHS Region 5","1 wk ahead","Bin","week","12.5","13",0.0036002083726253
-"HHS Region 5","1 wk ahead","Bin","week","13",NA,0.0036002083726253
+"HHS Region 5","1 wk ahead","Bin","week","13","100",0.0036002083726253
 "HHS Region 5","2 wk ahead","Point","percent",NA,NA,2.1
 "HHS Region 5","2 wk ahead","Bin","week","0","0.5",0.00391460751160972
 "HHS Region 5","2 wk ahead","Bin","week","0.5","1",0.00836719929420343
@@ -1196,7 +1196,7 @@
 "HHS Region 5","2 wk ahead","Bin","week","11.5","12",0.00368306480824529
 "HHS Region 5","2 wk ahead","Bin","week","12","12.5",0.00368306480824529
 "HHS Region 5","2 wk ahead","Bin","week","12.5","13",0.00368306480824529
-"HHS Region 5","2 wk ahead","Bin","week","13",NA,0.00368306480824529
+"HHS Region 5","2 wk ahead","Bin","week","13","100",0.00368306480824529
 "HHS Region 5","3 wk ahead","Point","percent",NA,NA,2.5
 "HHS Region 5","3 wk ahead","Bin","week","0","0.5",0.00293706812317697
 "HHS Region 5","3 wk ahead","Bin","week","0.5","1",0.00300537216954353
@@ -1224,7 +1224,7 @@
 "HHS Region 5","3 wk ahead","Bin","week","11.5","12",0.00293705152375275
 "HHS Region 5","3 wk ahead","Bin","week","12","12.5",0.00293705152375275
 "HHS Region 5","3 wk ahead","Bin","week","12.5","13",0.00293705152375275
-"HHS Region 5","3 wk ahead","Bin","week","13",NA,0.00293705152375275
+"HHS Region 5","3 wk ahead","Bin","week","13","100",0.00293705152375275
 "HHS Region 5","4 wk ahead","Point","percent",NA,NA,2.4
 "HHS Region 5","4 wk ahead","Bin","week","0","0.5",0.00451485312413468
 "HHS Region 5","4 wk ahead","Bin","week","0.5","1",0.00561718140844743
@@ -1252,7 +1252,7 @@
 "HHS Region 5","4 wk ahead","Bin","week","11.5","12",0.00121656284765885
 "HHS Region 5","4 wk ahead","Bin","week","12","12.5",0.00121656284765885
 "HHS Region 5","4 wk ahead","Bin","week","12.5","13",0.00121656284765885
-"HHS Region 5","4 wk ahead","Bin","week","13",NA,0.00121656284765885
+"HHS Region 5","4 wk ahead","Bin","week","13","100",0.00121656284765885
 "HHS Region 6","Season onset","Point","week",NA,NA,47.0000000000004
 "HHS Region 6","Season onset","Bin","week","40","41",0.000729217306757414
 "HHS Region 6","Season onset","Bin","week","41","42",0.000729217306757414
@@ -1349,7 +1349,7 @@
 "HHS Region 6","Season peak week","Bin","week","11.5","12",0.0421929981625769
 "HHS Region 6","Season peak week","Bin","week","12","12.5",0.0257813784007267
 "HHS Region 6","Season peak week","Bin","week","12.5","13",0.0143475106646116
-"HHS Region 6","Season peak week","Bin","week","13",NA,0.0166447559852368
+"HHS Region 6","Season peak week","Bin","week","13","100",0.0166447559852368
 "HHS Region 6","1 wk ahead","Point","percent",NA,NA,5.3
 "HHS Region 6","1 wk ahead","Bin","week","0","0.5",0.0036002083726253
 "HHS Region 6","1 wk ahead","Bin","week","0.5","1",0.0036002083726253
@@ -1377,7 +1377,7 @@
 "HHS Region 6","1 wk ahead","Bin","week","11.5","12",0.0036002083726253
 "HHS Region 6","1 wk ahead","Bin","week","12","12.5",0.0036002083726253
 "HHS Region 6","1 wk ahead","Bin","week","12.5","13",0.0036002083726253
-"HHS Region 6","1 wk ahead","Bin","week","13",NA,0.0036002083726253
+"HHS Region 6","1 wk ahead","Bin","week","13","100",0.0036002083726253
 "HHS Region 6","2 wk ahead","Point","percent",NA,NA,6.8
 "HHS Region 6","2 wk ahead","Bin","week","0","0.5",0.00418824888831312
 "HHS Region 6","2 wk ahead","Bin","week","0.5","1",0.00414615021497414
@@ -1405,7 +1405,7 @@
 "HHS Region 6","2 wk ahead","Bin","week","11.5","12",0.01138995482275
 "HHS Region 6","2 wk ahead","Bin","week","12","12.5",0.00665957077859438
 "HHS Region 6","2 wk ahead","Bin","week","12.5","13",0.00525149446735726
-"HHS Region 6","2 wk ahead","Bin","week","13",NA,0.0049911907462351
+"HHS Region 6","2 wk ahead","Bin","week","13","100",0.0049911907462351
 "HHS Region 6","3 wk ahead","Point","percent",NA,NA,8
 "HHS Region 6","3 wk ahead","Bin","week","0","0.5",0.00293705454182988
 "HHS Region 6","3 wk ahead","Bin","week","0.5","1",0.00313145425428498
@@ -1433,7 +1433,7 @@
 "HHS Region 6","3 wk ahead","Bin","week","11.5","12",0.0123684469380207
 "HHS Region 6","3 wk ahead","Bin","week","12","12.5",0.00668580772730446
 "HHS Region 6","3 wk ahead","Bin","week","12.5","13",0.00532041836922756
-"HHS Region 6","3 wk ahead","Bin","week","13",NA,0.00467282617478121
+"HHS Region 6","3 wk ahead","Bin","week","13","100",0.00467282617478121
 "HHS Region 6","4 wk ahead","Point","percent",NA,NA,6.7
 "HHS Region 6","4 wk ahead","Bin","week","0","0.5",0.00128284073680166
 "HHS Region 6","4 wk ahead","Bin","week","0.5","1",0.00151161259858508
@@ -1461,7 +1461,7 @@
 "HHS Region 6","4 wk ahead","Bin","week","11.5","12",0.0213240350445914
 "HHS Region 6","4 wk ahead","Bin","week","12","12.5",0.0101531493838415
 "HHS Region 6","4 wk ahead","Bin","week","12.5","13",0.00642702917220201
-"HHS Region 6","4 wk ahead","Bin","week","13",NA,0.00428246588535428
+"HHS Region 6","4 wk ahead","Bin","week","13","100",0.00428246588535428
 "HHS Region 7","Season onset","Point","week",NA,NA,51.0000000000005
 "HHS Region 7","Season onset","Bin","week","40","41",0.000729217306757414
 "HHS Region 7","Season onset","Bin","week","41","42",0.000729217306757414
@@ -1558,7 +1558,7 @@
 "HHS Region 7","Season peak week","Bin","week","11.5","12",0.00303399454012137
 "HHS Region 7","Season peak week","Bin","week","12","12.5",0.00305010645556225
 "HHS Region 7","Season peak week","Bin","week","12.5","13",0.00307077756643299
-"HHS Region 7","Season peak week","Bin","week","13",NA,0.00560798644181534
+"HHS Region 7","Season peak week","Bin","week","13","100",0.00560798644181534
 "HHS Region 7","1 wk ahead","Point","percent",NA,NA,1.4
 "HHS Region 7","1 wk ahead","Bin","week","0","0.5",0.00901568250462075
 "HHS Region 7","1 wk ahead","Bin","week","0.5","1",0.121847538022841
@@ -1586,7 +1586,7 @@
 "HHS Region 7","1 wk ahead","Bin","week","11.5","12",0.0036002083726253
 "HHS Region 7","1 wk ahead","Bin","week","12","12.5",0.0036002083726253
 "HHS Region 7","1 wk ahead","Bin","week","12.5","13",0.0036002083726253
-"HHS Region 7","1 wk ahead","Bin","week","13",NA,0.0036002083726253
+"HHS Region 7","1 wk ahead","Bin","week","13","100",0.0036002083726253
 "HHS Region 7","2 wk ahead","Point","percent",NA,NA,1.9
 "HHS Region 7","2 wk ahead","Bin","week","0","0.5",0.0198868811887416
 "HHS Region 7","2 wk ahead","Bin","week","0.5","1",0.0632706003867381
@@ -1614,7 +1614,7 @@
 "HHS Region 7","2 wk ahead","Bin","week","11.5","12",0.00528511322372804
 "HHS Region 7","2 wk ahead","Bin","week","12","12.5",0.00474580430799685
 "HHS Region 7","2 wk ahead","Bin","week","12.5","13",0.00421274627775137
-"HHS Region 7","2 wk ahead","Bin","week","13",NA,0.00391352476878195
+"HHS Region 7","2 wk ahead","Bin","week","13","100",0.00391352476878195
 "HHS Region 7","3 wk ahead","Point","percent",NA,NA,2.2
 "HHS Region 7","3 wk ahead","Bin","week","0","0.5",0.0200583577472703
 "HHS Region 7","3 wk ahead","Bin","week","0.5","1",0.0452762015741664
@@ -1642,7 +1642,7 @@
 "HHS Region 7","3 wk ahead","Bin","week","11.5","12",0.0030669974748823
 "HHS Region 7","3 wk ahead","Bin","week","12","12.5",0.00313272461859846
 "HHS Region 7","3 wk ahead","Bin","week","12.5","13",0.00322161431937601
-"HHS Region 7","3 wk ahead","Bin","week","13",NA,0.00942086167575105
+"HHS Region 7","3 wk ahead","Bin","week","13","100",0.00942086167575105
 "HHS Region 7","4 wk ahead","Point","percent",NA,NA,1.9
 "HHS Region 7","4 wk ahead","Bin","week","0","0.5",0.0443593087495003
 "HHS Region 7","4 wk ahead","Bin","week","0.5","1",0.0809964410779361
@@ -1670,7 +1670,7 @@
 "HHS Region 7","4 wk ahead","Bin","week","11.5","12",0.00141092638138353
 "HHS Region 7","4 wk ahead","Bin","week","12","12.5",0.0015103167744065
 "HHS Region 7","4 wk ahead","Bin","week","12.5","13",0.00173324116249871
-"HHS Region 7","4 wk ahead","Bin","week","13",NA,0.014148114987576
+"HHS Region 7","4 wk ahead","Bin","week","13","100",0.014148114987576
 "HHS Region 8","Season onset","Point","week",NA,NA,51.0000000000005
 "HHS Region 8","Season onset","Bin","week","40","41",0.000729217306757414
 "HHS Region 8","Season onset","Bin","week","41","42",0.000729217306757414
@@ -1767,7 +1767,7 @@
 "HHS Region 8","Season peak week","Bin","week","11.5","12",0.00300583719442361
 "HHS Region 8","Season peak week","Bin","week","12","12.5",0.00300583719442361
 "HHS Region 8","Season peak week","Bin","week","12.5","13",0.00300583719442361
-"HHS Region 8","Season peak week","Bin","week","13",NA,0.00300583719442361
+"HHS Region 8","Season peak week","Bin","week","13","100",0.00300583719442361
 "HHS Region 8","1 wk ahead","Point","percent",NA,NA,1.1
 "HHS Region 8","1 wk ahead","Bin","week","0","0.5",0.00871239623445177
 "HHS Region 8","1 wk ahead","Bin","week","0.5","1",0.332396464363549
@@ -1795,7 +1795,7 @@
 "HHS Region 8","1 wk ahead","Bin","week","11.5","12",0.0036002083726253
 "HHS Region 8","1 wk ahead","Bin","week","12","12.5",0.0036002083726253
 "HHS Region 8","1 wk ahead","Bin","week","12.5","13",0.0036002083726253
-"HHS Region 8","1 wk ahead","Bin","week","13",NA,0.0036002083726253
+"HHS Region 8","1 wk ahead","Bin","week","13","100",0.0036002083726253
 "HHS Region 8","2 wk ahead","Point","percent",NA,NA,1.3
 "HHS Region 8","2 wk ahead","Bin","week","0","0.5",0.0239567911420137
 "HHS Region 8","2 wk ahead","Bin","week","0.5","1",0.168736081014113
@@ -1823,7 +1823,7 @@
 "HHS Region 8","2 wk ahead","Bin","week","11.5","12",0.00368306480824529
 "HHS Region 8","2 wk ahead","Bin","week","12","12.5",0.00368306480824529
 "HHS Region 8","2 wk ahead","Bin","week","12.5","13",0.00368306480824529
-"HHS Region 8","2 wk ahead","Bin","week","13",NA,0.00368306480824529
+"HHS Region 8","2 wk ahead","Bin","week","13","100",0.00368306480824529
 "HHS Region 8","3 wk ahead","Point","percent",NA,NA,1.8
 "HHS Region 8","3 wk ahead","Bin","week","0","0.5",0.0100960755215954
 "HHS Region 8","3 wk ahead","Bin","week","0.5","1",0.0879946545910165
@@ -1851,7 +1851,7 @@
 "HHS Region 8","3 wk ahead","Bin","week","11.5","12",0.00293705152375275
 "HHS Region 8","3 wk ahead","Bin","week","12","12.5",0.00293705152375275
 "HHS Region 8","3 wk ahead","Bin","week","12.5","13",0.00293705152375275
-"HHS Region 8","3 wk ahead","Bin","week","13",NA,0.00293705152375275
+"HHS Region 8","3 wk ahead","Bin","week","13","100",0.00293705152375275
 "HHS Region 8","4 wk ahead","Point","percent",NA,NA,1.5
 "HHS Region 8","4 wk ahead","Bin","week","0","0.5",0.0870782061613662
 "HHS Region 8","4 wk ahead","Bin","week","0.5","1",0.171646092606699
@@ -1879,7 +1879,7 @@
 "HHS Region 8","4 wk ahead","Bin","week","11.5","12",0.00121656284765885
 "HHS Region 8","4 wk ahead","Bin","week","12","12.5",0.00121656284765885
 "HHS Region 8","4 wk ahead","Bin","week","12.5","13",0.00121656284765885
-"HHS Region 8","4 wk ahead","Bin","week","13",NA,0.00121656284765885
+"HHS Region 8","4 wk ahead","Bin","week","13","100",0.00121656284765885
 "HHS Region 9","Season onset","Point","week",NA,NA,51.0000000000005
 "HHS Region 9","Season onset","Bin","week","40","41",0.000729217306757414
 "HHS Region 9","Season onset","Bin","week","41","42",0.000729217306757414
@@ -1976,7 +1976,7 @@
 "HHS Region 9","Season peak week","Bin","week","11.5","12",0.00303112754554927
 "HHS Region 9","Season peak week","Bin","week","12","12.5",0.00300750921284397
 "HHS Region 9","Season peak week","Bin","week","12.5","13",0.00300583719442361
-"HHS Region 9","Season peak week","Bin","week","13",NA,0.00300583719442361
+"HHS Region 9","Season peak week","Bin","week","13","100",0.00300583719442361
 "HHS Region 9","1 wk ahead","Point","percent",NA,NA,2.5
 "HHS Region 9","1 wk ahead","Bin","week","0","0.5",0.00450235771195935
 "HHS Region 9","1 wk ahead","Bin","week","0.5","1",0.00390092986541327
@@ -2004,7 +2004,7 @@
 "HHS Region 9","1 wk ahead","Bin","week","11.5","12",0.0036002083726253
 "HHS Region 9","1 wk ahead","Bin","week","12","12.5",0.0036002083726253
 "HHS Region 9","1 wk ahead","Bin","week","12.5","13",0.0036002083726253
-"HHS Region 9","1 wk ahead","Bin","week","13",NA,0.0036002083726253
+"HHS Region 9","1 wk ahead","Bin","week","13","100",0.0036002083726253
 "HHS Region 9","2 wk ahead","Point","percent",NA,NA,3
 "HHS Region 9","2 wk ahead","Bin","week","0","0.5",0.00585649868878106
 "HHS Region 9","2 wk ahead","Bin","week","0.5","1",0.00650425191762637
@@ -2032,7 +2032,7 @@
 "HHS Region 9","2 wk ahead","Bin","week","11.5","12",0.00368306480824529
 "HHS Region 9","2 wk ahead","Bin","week","12","12.5",0.00368306480824529
 "HHS Region 9","2 wk ahead","Bin","week","12.5","13",0.00368306480824529
-"HHS Region 9","2 wk ahead","Bin","week","13",NA,0.00368306480824529
+"HHS Region 9","2 wk ahead","Bin","week","13","100",0.00368306480824529
 "HHS Region 9","3 wk ahead","Point","percent",NA,NA,4.2
 "HHS Region 9","3 wk ahead","Bin","week","0","0.5",0.00312291926656629
 "HHS Region 9","3 wk ahead","Bin","week","0.5","1",0.00443252442987688
@@ -2060,7 +2060,7 @@
 "HHS Region 9","3 wk ahead","Bin","week","11.5","12",0.00293705152375275
 "HHS Region 9","3 wk ahead","Bin","week","12","12.5",0.00293705152375275
 "HHS Region 9","3 wk ahead","Bin","week","12.5","13",0.00293705152375275
-"HHS Region 9","3 wk ahead","Bin","week","13",NA,0.00293705152375275
+"HHS Region 9","3 wk ahead","Bin","week","13","100",0.00293705152375275
 "HHS Region 9","4 wk ahead","Point","percent",NA,NA,3.5
 "HHS Region 9","4 wk ahead","Bin","week","0","0.5",0.00249605765643728
 "HHS Region 9","4 wk ahead","Bin","week","0.5","1",0.00456723377588357
@@ -2088,7 +2088,7 @@
 "HHS Region 9","4 wk ahead","Bin","week","11.5","12",0.00121656284765885
 "HHS Region 9","4 wk ahead","Bin","week","12","12.5",0.00121656284765885
 "HHS Region 9","4 wk ahead","Bin","week","12.5","13",0.00121656284765885
-"HHS Region 9","4 wk ahead","Bin","week","13",NA,0.00121656284765885
+"HHS Region 9","4 wk ahead","Bin","week","13","100",0.00121656284765885
 "HHS Region 10","Season onset","Point","week",NA,NA,51.0000000000005
 "HHS Region 10","Season onset","Bin","week","40","41",0.000729217306757414
 "HHS Region 10","Season onset","Bin","week","41","42",0.000729217306757414
@@ -2185,7 +2185,7 @@
 "HHS Region 10","Season peak week","Bin","week","11.5","12",0.00300738222086983
 "HHS Region 10","Season peak week","Bin","week","12","12.5",0.00300583719442361
 "HHS Region 10","Season peak week","Bin","week","12.5","13",0.00300753237667767
-"HHS Region 10","Season peak week","Bin","week","13",NA,0.00300583719442361
+"HHS Region 10","Season peak week","Bin","week","13","100",0.00300583719442361
 "HHS Region 10","1 wk ahead","Point","percent",NA,NA,0.9
 "HHS Region 10","1 wk ahead","Bin","week","0","0.5",0.104402775656839
 "HHS Region 10","1 wk ahead","Bin","week","0.5","1",0.450800255926443
@@ -2213,7 +2213,7 @@
 "HHS Region 10","1 wk ahead","Bin","week","11.5","12",0.0036002083726253
 "HHS Region 10","1 wk ahead","Bin","week","12","12.5",0.0036002083726253
 "HHS Region 10","1 wk ahead","Bin","week","12.5","13",0.0036002083726253
-"HHS Region 10","1 wk ahead","Bin","week","13",NA,0.0036002083726253
+"HHS Region 10","1 wk ahead","Bin","week","13","100",0.0036002083726253
 "HHS Region 10","2 wk ahead","Point","percent",NA,NA,1.4
 "HHS Region 10","2 wk ahead","Bin","week","0","0.5",0.0246419936565201
 "HHS Region 10","2 wk ahead","Bin","week","0.5","1",0.104485134621641
@@ -2241,7 +2241,7 @@
 "HHS Region 10","2 wk ahead","Bin","week","11.5","12",0.00368306480824529
 "HHS Region 10","2 wk ahead","Bin","week","12","12.5",0.00368306480824529
 "HHS Region 10","2 wk ahead","Bin","week","12.5","13",0.00368306480824529
-"HHS Region 10","2 wk ahead","Bin","week","13",NA,0.00368306480824529
+"HHS Region 10","2 wk ahead","Bin","week","13","100",0.00368306480824529
 "HHS Region 10","3 wk ahead","Point","percent",NA,NA,2.1
 "HHS Region 10","3 wk ahead","Bin","week","0","0.5",0.0148083073527175
 "HHS Region 10","3 wk ahead","Bin","week","0.5","1",0.0526250332534386
@@ -2269,7 +2269,7 @@
 "HHS Region 10","3 wk ahead","Bin","week","11.5","12",0.00293705152375275
 "HHS Region 10","3 wk ahead","Bin","week","12","12.5",0.00293705152375275
 "HHS Region 10","3 wk ahead","Bin","week","12.5","13",0.00293705152375275
-"HHS Region 10","3 wk ahead","Bin","week","13",NA,0.00293705152375275
+"HHS Region 10","3 wk ahead","Bin","week","13","100",0.00293705152375275
 "HHS Region 10","4 wk ahead","Point","percent",NA,NA,1.9
 "HHS Region 10","4 wk ahead","Bin","week","0","0.5",0.0496094950856256
 "HHS Region 10","4 wk ahead","Bin","week","0.5","1",0.100336199115879
@@ -2297,4 +2297,4 @@
 "HHS Region 10","4 wk ahead","Bin","week","11.5","12",0.00121656284765885
 "HHS Region 10","4 wk ahead","Bin","week","12","12.5",0.00121656284765885
 "HHS Region 10","4 wk ahead","Bin","week","12.5","13",0.00121656284765885
-"HHS Region 10","4 wk ahead","Bin","week","13",NA,0.00121656284765885
+"HHS Region 10","4 wk ahead","Bin","week","13","100",0.00121656284765885
