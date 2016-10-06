@@ -1,0 +1,2 @@
+# 2016-2017 Submissions
+This folder will contain forecasts submitted during the 2016-2017 influenza season and will be updated weekly as new forecasts are submitted. Each folder contains submissions from a single forecasting model.
