@@ -5,7 +5,7 @@ This repository contains forecasts submitted to CDC as part of the [FluSight](ht
 Since 2013, the Influenza Division at CDC has worked with external researchers to improve the science and usability of influenza forecasts by coordinating seasonal influenza prediction challenges. Teams create models to predict seasonal and short-term targets related to seasonal influenza and submit weekly forecasts to CDC. More information and visualizations of forecasts can be found at the FluSight [website](https://predict.phiresearchlab.org/legacy/flu/index.html).
 
 ### Data organization
-Forecast submissions are organized by season, and within each season by team name or number. Submissions labeled with the same name or number across seasons were developed using the same methodology. Submissions are labeled in the format “EWXX-TeamXX-YYYY-MM-DD.csv”, where
+Forecast submissions are organized by season, and within each season by team name or number. Submissions are labeled in the format “EWXX-TeamXX-YYYY-MM-DD.csv”, where
 * **EWXX** is the latest MMWR week of data used in the forecast
 * **TeamXX** is the team name/number
 * **YYYY-MM-DD** is the date of forecast submission
