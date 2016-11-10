@@ -10,6 +10,9 @@ Forecast submissions are organized by season, and within each season by team nam
 * **TeamXX** is the team name/number
 * **YYYY-MM-DD** is the date of forecast submission
 
+### Forecast visualizations
+Until this season's webpage is up, visualizations of 2016-2017 forecasts will be housed on this repository for teams to access.
+
 ### Forecast structure
 Submissions are structured in an identical matter. Each submission consists of the following variables:
 * **Location:** location of forecast - either entire US or particular HHS Region
