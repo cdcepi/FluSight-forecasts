@@ -11,7 +11,7 @@ Forecast submissions are organized by season, and within each season by team nam
 * **YYYY-MM-DD** is the date of forecast submission
 
 ### Forecast visualizations
-Until this season's webpage is up, visualizations of 2016-2017 forecasts will be housed on this repository for teams to access.
+Visualizations for current week's forecasts can now be found on the FluSight [website](https://predict.phiresearchlab.org/).
 
 ### Forecast structure
 Submissions are structured in an identical matter. Each submission consists of the following variables:
