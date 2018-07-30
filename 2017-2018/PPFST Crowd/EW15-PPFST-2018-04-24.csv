@@ -1,4 +1,4 @@
-Location,Target,Type,Unit,Bin_start_incl,Bin_end_notincl,value
+Location,Target,Type,Unit,Bin_start_incl,Bin_end_notincl,Value
 US National,Season onset,Point,week,NA,NA,47
 US National,Season onset,Bin,week,40,41,0
 US National,Season onset,Bin,week,41,42,0
@@ -7886,7 +7886,7 @@ HHS Region 10,3 wk ahead,Bin,percent,12.7,12.8,0.000863896
 HHS Region 10,3 wk ahead,Bin,percent,12.8,12.9,0.000863896
 HHS Region 10,3 wk ahead,Bin,percent,12.9,13,0.000863896
 HHS Region 10,3 wk ahead,Bin,percent,13,100,0.001768554
-HHS Region 10,4 wk ahead,Point,percent,NA,NA,#VALUE!
+HHS Region 10,4 wk ahead,Point,percent,NA,NA,1.6
 HHS Region 10,4 wk ahead,Bin,percent,0,0.1,0.000867149
 HHS Region 10,4 wk ahead,Bin,percent,0.1,0.2,0.001017649
 HHS Region 10,4 wk ahead,Bin,percent,0.2,0.3,0.001501009
@@ -8018,83 +8018,3 @@ HHS Region 10,4 wk ahead,Bin,percent,12.7,12.8,0.000795844
 HHS Region 10,4 wk ahead,Bin,percent,12.8,12.9,0.000795844
 HHS Region 10,4 wk ahead,Bin,percent,12.9,13,0.000795844
 HHS Region 10,4 wk ahead,Bin,percent,13,100,0.001990671
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
