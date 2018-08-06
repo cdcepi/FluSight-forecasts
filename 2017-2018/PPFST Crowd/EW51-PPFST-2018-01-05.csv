@@ -1,39 +1,39 @@
-Location,Target,Type,Unit,Bin_start_incl,Bin_end_notincl,
+Location,Target,Type,Unit,Bin_start_incl,Bin_end_notincl,Value
 US National,Season onset,Point,week,NA,NA,47
-US National,Season onset,Bin,week,40,41,6.66667E-05
-US National,Season onset,Bin,week,41,42,6.66667E-05
-US National,Season onset,Bin,week,42,43,6.66667E-05
-US National,Season onset,Bin,week,43,44,6.66675E-05
-US National,Season onset,Bin,week,44,45,6.67491E-05
-US National,Season onset,Bin,week,45,46,9.67733E-05
+US National,Season onset,Bin,week,40,41,6.67E-05
+US National,Season onset,Bin,week,41,42,6.67E-05
+US National,Season onset,Bin,week,42,43,6.67E-05
+US National,Season onset,Bin,week,43,44,6.67E-05
+US National,Season onset,Bin,week,44,45,6.67E-05
+US National,Season onset,Bin,week,45,46,9.68E-05
 US National,Season onset,Bin,week,46,47,0.020975908
 US National,Season onset,Bin,week,47,48,0.955921138
 US National,Season onset,Bin,week,48,49,0.020975908
-US National,Season onset,Bin,week,49,50,9.67733E-05
-US National,Season onset,Bin,week,50,51,6.67491E-05
-US National,Season onset,Bin,week,51,52,6.66675E-05
-US National,Season onset,Bin,week,52,53,6.66667E-05
-US National,Season onset,Bin,week,1,2,6.66667E-05
-US National,Season onset,Bin,week,2,3,6.66667E-05
-US National,Season onset,Bin,week,3,4,6.66667E-05
-US National,Season onset,Bin,week,4,5,6.66667E-05
-US National,Season onset,Bin,week,5,6,6.66667E-05
-US National,Season onset,Bin,week,6,7,6.66667E-05
-US National,Season onset,Bin,week,7,8,6.66667E-05
-US National,Season onset,Bin,week,8,9,6.66667E-05
-US National,Season onset,Bin,week,9,10,6.66667E-05
-US National,Season onset,Bin,week,10,11,6.66667E-05
-US National,Season onset,Bin,week,11,12,6.66667E-05
-US National,Season onset,Bin,week,12,13,6.66667E-05
-US National,Season onset,Bin,week,13,14,6.66667E-05
-US National,Season onset,Bin,week,14,15,6.66667E-05
-US National,Season onset,Bin,week,15,16,6.66667E-05
-US National,Season onset,Bin,week,16,17,6.66667E-05
-US National,Season onset,Bin,week,17,18,6.66667E-05
-US National,Season onset,Bin,week,18,19,6.66667E-05
-US National,Season onset,Bin,week,19,20,6.66667E-05
-US National,Season onset,Bin,week,20,21,6.66667E-05
-US National,Season onset,Bin,week,none,none,6.66667E-05
+US National,Season onset,Bin,week,49,50,9.68E-05
+US National,Season onset,Bin,week,50,51,6.67E-05
+US National,Season onset,Bin,week,51,52,6.67E-05
+US National,Season onset,Bin,week,52,53,6.67E-05
+US National,Season onset,Bin,week,1,2,6.67E-05
+US National,Season onset,Bin,week,2,3,6.67E-05
+US National,Season onset,Bin,week,3,4,6.67E-05
+US National,Season onset,Bin,week,4,5,6.67E-05
+US National,Season onset,Bin,week,5,6,6.67E-05
+US National,Season onset,Bin,week,6,7,6.67E-05
+US National,Season onset,Bin,week,7,8,6.67E-05
+US National,Season onset,Bin,week,8,9,6.67E-05
+US National,Season onset,Bin,week,9,10,6.67E-05
+US National,Season onset,Bin,week,10,11,6.67E-05
+US National,Season onset,Bin,week,11,12,6.67E-05
+US National,Season onset,Bin,week,12,13,6.67E-05
+US National,Season onset,Bin,week,13,14,6.67E-05
+US National,Season onset,Bin,week,14,15,6.67E-05
+US National,Season onset,Bin,week,15,16,6.67E-05
+US National,Season onset,Bin,week,16,17,6.67E-05
+US National,Season onset,Bin,week,17,18,6.67E-05
+US National,Season onset,Bin,week,18,19,6.67E-05
+US National,Season onset,Bin,week,19,20,6.67E-05
+US National,Season onset,Bin,week,20,21,6.67E-05
+US National,Season onset,Bin,week,none,none,6.67E-05
 US National,Season peak week,Point,week,NA,NA,35.66666667
 US National,Season peak week,Bin,week,40,41,0.000198828
 US National,Season peak week,Bin,week,41,42,0.000198828
@@ -8018,83 +8018,3 @@ HHS Region 10,4 wk ahead,Bin,percent,12.7,12.8,0.000555917
 HHS Region 10,4 wk ahead,Bin,percent,12.8,12.9,0.000555033
 HHS Region 10,4 wk ahead,Bin,percent,12.9,13,0.000553689
 HHS Region 10,4 wk ahead,Bin,percent,13,100,0.00045935
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
