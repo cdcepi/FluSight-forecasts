@@ -1,4 +1,4 @@
-Location,Target,Type,Unit,Bin_start_incl,Bin_end_notincl,value
+location,target,type,unit,bin_start_incl,bin_end_notincl,value
 US National,Season onset,Point,week,NA,NA,46
 US National,Season onset,Bin,week,40,41,0.00033168
 US National,Season onset,Bin,week,41,42,0.00033168
@@ -201,17 +201,17 @@ US National,Season peak percentage,Bin,percent,12.8,12.9,0.00113707
 US National,Season peak percentage,Bin,percent,12.9,13,0.001178248
 US National,Season peak percentage,Bin,percent,13,100,0.001273975
 US National,1 wk ahead,Point,percent,NA,NA,3.41526425
-US National,1 wk ahead,Bin,percent,0,0.1,3.88168E-05
-US National,1 wk ahead,Bin,percent,0.1,0.2,3.91015E-05
-US National,1 wk ahead,Bin,percent,0.2,0.3,3.95172E-05
-US National,1 wk ahead,Bin,percent,0.3,0.4,4.01248E-05
-US National,1 wk ahead,Bin,percent,0.4,0.5,4.10335E-05
-US National,1 wk ahead,Bin,percent,0.5,0.6,4.23936E-05
-US National,1 wk ahead,Bin,percent,0.6,0.7,4.46846E-05
-US National,1 wk ahead,Bin,percent,0.7,0.8,4.80952E-05
-US National,1 wk ahead,Bin,percent,0.8,0.9,5.44345E-05
-US National,1 wk ahead,Bin,percent,0.9,1,6.62232E-05
-US National,1 wk ahead,Bin,percent,1,1.1,8.24955E-05
+US National,1 wk ahead,Bin,percent,0,0.1,3.88E-05
+US National,1 wk ahead,Bin,percent,0.1,0.2,3.91E-05
+US National,1 wk ahead,Bin,percent,0.2,0.3,3.95E-05
+US National,1 wk ahead,Bin,percent,0.3,0.4,4.01E-05
+US National,1 wk ahead,Bin,percent,0.4,0.5,4.10E-05
+US National,1 wk ahead,Bin,percent,0.5,0.6,4.24E-05
+US National,1 wk ahead,Bin,percent,0.6,0.7,4.47E-05
+US National,1 wk ahead,Bin,percent,0.7,0.8,4.81E-05
+US National,1 wk ahead,Bin,percent,0.8,0.9,5.44E-05
+US National,1 wk ahead,Bin,percent,0.9,1,6.62E-05
+US National,1 wk ahead,Bin,percent,1,1.1,8.25E-05
 US National,1 wk ahead,Bin,percent,1.1,1.2,0.000106096
 US National,1 wk ahead,Bin,percent,1.2,1.3,0.000134021
 US National,1 wk ahead,Bin,percent,1.3,1.4,0.000175482
@@ -261,77 +261,77 @@ US National,1 wk ahead,Bin,percent,5.6,5.7,0.000319918
 US National,1 wk ahead,Bin,percent,5.7,5.8,0.00022618
 US National,1 wk ahead,Bin,percent,5.8,5.9,0.000156957
 US National,1 wk ahead,Bin,percent,5.9,6,0.000121136
-US National,1 wk ahead,Bin,percent,6,6.1,9.60096E-05
-US National,1 wk ahead,Bin,percent,6.1,6.2,7.83728E-05
-US National,1 wk ahead,Bin,percent,6.2,6.3,6.58233E-05
-US National,1 wk ahead,Bin,percent,6.3,6.4,5.72455E-05
-US National,1 wk ahead,Bin,percent,6.4,6.5,5.13362E-05
-US National,1 wk ahead,Bin,percent,6.5,6.6,4.73343E-05
-US National,1 wk ahead,Bin,percent,6.6,6.7,4.4656E-05
-US National,1 wk ahead,Bin,percent,6.7,6.8,4.24716E-05
-US National,1 wk ahead,Bin,percent,6.8,6.9,4.13006E-05
-US National,1 wk ahead,Bin,percent,6.9,7,4.04138E-05
-US National,1 wk ahead,Bin,percent,7,7.1,3.96613E-05
-US National,1 wk ahead,Bin,percent,7.1,7.2,3.93502E-05
-US National,1 wk ahead,Bin,percent,7.2,7.3,3.89826E-05
-US National,1 wk ahead,Bin,percent,7.3,7.4,3.88085E-05
-US National,1 wk ahead,Bin,percent,7.4,7.5,3.85498E-05
-US National,1 wk ahead,Bin,percent,7.5,7.6,3.85203E-05
-US National,1 wk ahead,Bin,percent,7.6,7.7,3.84778E-05
-US National,1 wk ahead,Bin,percent,7.7,7.8,3.83717E-05
-US National,1 wk ahead,Bin,percent,7.8,7.9,3.82999E-05
-US National,1 wk ahead,Bin,percent,7.9,8,3.83206E-05
-US National,1 wk ahead,Bin,percent,8,8.1,3.82436E-05
-US National,1 wk ahead,Bin,percent,8.1,8.2,3.82127E-05
-US National,1 wk ahead,Bin,percent,8.2,8.3,3.82265E-05
-US National,1 wk ahead,Bin,percent,8.3,8.4,3.82215E-05
-US National,1 wk ahead,Bin,percent,8.4,8.5,3.81972E-05
-US National,1 wk ahead,Bin,percent,8.5,8.6,3.81948E-05
-US National,1 wk ahead,Bin,percent,8.6,8.7,3.82139E-05
-US National,1 wk ahead,Bin,percent,8.7,8.8,3.81918E-05
-US National,1 wk ahead,Bin,percent,8.8,8.9,3.82118E-05
-US National,1 wk ahead,Bin,percent,8.9,9,3.81904E-05
-US National,1 wk ahead,Bin,percent,9,9.1,3.81899E-05
-US National,1 wk ahead,Bin,percent,9.1,9.2,3.81896E-05
-US National,1 wk ahead,Bin,percent,9.2,9.3,3.81894E-05
-US National,1 wk ahead,Bin,percent,9.3,9.4,3.81892E-05
-US National,1 wk ahead,Bin,percent,9.4,9.5,3.81891E-05
-US National,1 wk ahead,Bin,percent,9.5,9.6,3.8189E-05
-US National,1 wk ahead,Bin,percent,9.6,9.7,3.81889E-05
-US National,1 wk ahead,Bin,percent,9.7,9.8,3.81889E-05
-US National,1 wk ahead,Bin,percent,9.8,9.9,3.81889E-05
-US National,1 wk ahead,Bin,percent,9.9,10,3.81888E-05
-US National,1 wk ahead,Bin,percent,10,10.1,3.81888E-05
-US National,1 wk ahead,Bin,percent,10.1,10.2,3.82096E-05
-US National,1 wk ahead,Bin,percent,10.2,10.3,3.81888E-05
-US National,1 wk ahead,Bin,percent,10.3,10.4,3.81888E-05
-US National,1 wk ahead,Bin,percent,10.4,10.5,3.81888E-05
-US National,1 wk ahead,Bin,percent,10.5,10.6,3.81888E-05
-US National,1 wk ahead,Bin,percent,10.6,10.7,3.81888E-05
-US National,1 wk ahead,Bin,percent,10.7,10.8,3.81888E-05
-US National,1 wk ahead,Bin,percent,10.8,10.9,3.81888E-05
-US National,1 wk ahead,Bin,percent,10.9,11,3.81888E-05
-US National,1 wk ahead,Bin,percent,11,11.1,3.81888E-05
-US National,1 wk ahead,Bin,percent,11.1,11.2,3.81888E-05
-US National,1 wk ahead,Bin,percent,11.2,11.3,3.81888E-05
-US National,1 wk ahead,Bin,percent,11.3,11.4,3.81888E-05
-US National,1 wk ahead,Bin,percent,11.4,11.5,3.81888E-05
-US National,1 wk ahead,Bin,percent,11.5,11.6,3.81888E-05
-US National,1 wk ahead,Bin,percent,11.6,11.7,3.82096E-05
-US National,1 wk ahead,Bin,percent,11.7,11.8,3.81888E-05
-US National,1 wk ahead,Bin,percent,11.8,11.9,3.81888E-05
-US National,1 wk ahead,Bin,percent,11.9,12,3.81888E-05
-US National,1 wk ahead,Bin,percent,12,12.1,3.81888E-05
-US National,1 wk ahead,Bin,percent,12.1,12.2,3.81888E-05
-US National,1 wk ahead,Bin,percent,12.2,12.3,3.81888E-05
-US National,1 wk ahead,Bin,percent,12.3,12.4,3.81888E-05
-US National,1 wk ahead,Bin,percent,12.4,12.5,3.81888E-05
-US National,1 wk ahead,Bin,percent,12.5,12.6,3.81888E-05
-US National,1 wk ahead,Bin,percent,12.6,12.7,3.81888E-05
-US National,1 wk ahead,Bin,percent,12.7,12.8,3.81888E-05
-US National,1 wk ahead,Bin,percent,12.8,12.9,3.81888E-05
-US National,1 wk ahead,Bin,percent,12.9,13,3.81888E-05
-US National,1 wk ahead,Bin,percent,13,100,3.81888E-05
+US National,1 wk ahead,Bin,percent,6,6.1,9.60E-05
+US National,1 wk ahead,Bin,percent,6.1,6.2,7.84E-05
+US National,1 wk ahead,Bin,percent,6.2,6.3,6.58E-05
+US National,1 wk ahead,Bin,percent,6.3,6.4,5.72E-05
+US National,1 wk ahead,Bin,percent,6.4,6.5,5.13E-05
+US National,1 wk ahead,Bin,percent,6.5,6.6,4.73E-05
+US National,1 wk ahead,Bin,percent,6.6,6.7,4.47E-05
+US National,1 wk ahead,Bin,percent,6.7,6.8,4.25E-05
+US National,1 wk ahead,Bin,percent,6.8,6.9,4.13E-05
+US National,1 wk ahead,Bin,percent,6.9,7,4.04E-05
+US National,1 wk ahead,Bin,percent,7,7.1,3.97E-05
+US National,1 wk ahead,Bin,percent,7.1,7.2,3.94E-05
+US National,1 wk ahead,Bin,percent,7.2,7.3,3.90E-05
+US National,1 wk ahead,Bin,percent,7.3,7.4,3.88E-05
+US National,1 wk ahead,Bin,percent,7.4,7.5,3.85E-05
+US National,1 wk ahead,Bin,percent,7.5,7.6,3.85E-05
+US National,1 wk ahead,Bin,percent,7.6,7.7,3.85E-05
+US National,1 wk ahead,Bin,percent,7.7,7.8,3.84E-05
+US National,1 wk ahead,Bin,percent,7.8,7.9,3.83E-05
+US National,1 wk ahead,Bin,percent,7.9,8,3.83E-05
+US National,1 wk ahead,Bin,percent,8,8.1,3.82E-05
+US National,1 wk ahead,Bin,percent,8.1,8.2,3.82E-05
+US National,1 wk ahead,Bin,percent,8.2,8.3,3.82E-05
+US National,1 wk ahead,Bin,percent,8.3,8.4,3.82E-05
+US National,1 wk ahead,Bin,percent,8.4,8.5,3.82E-05
+US National,1 wk ahead,Bin,percent,8.5,8.6,3.82E-05
+US National,1 wk ahead,Bin,percent,8.6,8.7,3.82E-05
+US National,1 wk ahead,Bin,percent,8.7,8.8,3.82E-05
+US National,1 wk ahead,Bin,percent,8.8,8.9,3.82E-05
+US National,1 wk ahead,Bin,percent,8.9,9,3.82E-05
+US National,1 wk ahead,Bin,percent,9,9.1,3.82E-05
+US National,1 wk ahead,Bin,percent,9.1,9.2,3.82E-05
+US National,1 wk ahead,Bin,percent,9.2,9.3,3.82E-05
+US National,1 wk ahead,Bin,percent,9.3,9.4,3.82E-05
+US National,1 wk ahead,Bin,percent,9.4,9.5,3.82E-05
+US National,1 wk ahead,Bin,percent,9.5,9.6,3.82E-05
+US National,1 wk ahead,Bin,percent,9.6,9.7,3.82E-05
+US National,1 wk ahead,Bin,percent,9.7,9.8,3.82E-05
+US National,1 wk ahead,Bin,percent,9.8,9.9,3.82E-05
+US National,1 wk ahead,Bin,percent,9.9,10,3.82E-05
+US National,1 wk ahead,Bin,percent,10,10.1,3.82E-05
+US National,1 wk ahead,Bin,percent,10.1,10.2,3.82E-05
+US National,1 wk ahead,Bin,percent,10.2,10.3,3.82E-05
+US National,1 wk ahead,Bin,percent,10.3,10.4,3.82E-05
+US National,1 wk ahead,Bin,percent,10.4,10.5,3.82E-05
+US National,1 wk ahead,Bin,percent,10.5,10.6,3.82E-05
+US National,1 wk ahead,Bin,percent,10.6,10.7,3.82E-05
+US National,1 wk ahead,Bin,percent,10.7,10.8,3.82E-05
+US National,1 wk ahead,Bin,percent,10.8,10.9,3.82E-05
+US National,1 wk ahead,Bin,percent,10.9,11,3.82E-05
+US National,1 wk ahead,Bin,percent,11,11.1,3.82E-05
+US National,1 wk ahead,Bin,percent,11.1,11.2,3.82E-05
+US National,1 wk ahead,Bin,percent,11.2,11.3,3.82E-05
+US National,1 wk ahead,Bin,percent,11.3,11.4,3.82E-05
+US National,1 wk ahead,Bin,percent,11.4,11.5,3.82E-05
+US National,1 wk ahead,Bin,percent,11.5,11.6,3.82E-05
+US National,1 wk ahead,Bin,percent,11.6,11.7,3.82E-05
+US National,1 wk ahead,Bin,percent,11.7,11.8,3.82E-05
+US National,1 wk ahead,Bin,percent,11.8,11.9,3.82E-05
+US National,1 wk ahead,Bin,percent,11.9,12,3.82E-05
+US National,1 wk ahead,Bin,percent,12,12.1,3.82E-05
+US National,1 wk ahead,Bin,percent,12.1,12.2,3.82E-05
+US National,1 wk ahead,Bin,percent,12.2,12.3,3.82E-05
+US National,1 wk ahead,Bin,percent,12.3,12.4,3.82E-05
+US National,1 wk ahead,Bin,percent,12.4,12.5,3.82E-05
+US National,1 wk ahead,Bin,percent,12.5,12.6,3.82E-05
+US National,1 wk ahead,Bin,percent,12.6,12.7,3.82E-05
+US National,1 wk ahead,Bin,percent,12.7,12.8,3.82E-05
+US National,1 wk ahead,Bin,percent,12.8,12.9,3.82E-05
+US National,1 wk ahead,Bin,percent,12.9,13,3.82E-05
+US National,1 wk ahead,Bin,percent,13,100,3.82E-05
 US National,2 wk ahead,Point,percent,NA,NA,4.143837
 US National,2 wk ahead,Bin,percent,0,0.1,0.000342237
 US National,2 wk ahead,Bin,percent,0.1,0.2,0.000346018
@@ -8018,83 +8018,3 @@ HHS Region 10,4 wk ahead,Bin,percent,12.7,12.8,0.000491129
 HHS Region 10,4 wk ahead,Bin,percent,12.8,12.9,0.000516319
 HHS Region 10,4 wk ahead,Bin,percent,12.9,13,0.000543389
 HHS Region 10,4 wk ahead,Bin,percent,13,100,0.00085827
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
