@@ -1,27 +1,27 @@
-This folders contains forecasts submitted during the 2017-2018 influenza season. Each folder contains submissions from a single forecasting model. Further details about the forecasts are available below. 
+This folders contains forecasts submitted during the 2018-2019 influenza season. Each folder contains submissions from a single forecasting model. Further details about the forecasts are available below. 
 
 # Background
-Influenza (flu) is a respiratory virus that can result in illness ranging from mild to severe. Each year, millions of people get sick with influenza, hundreds of thousands are hospitalized and thousands of people die from flu. Tracking flu activity to inform prevention measures is an important public health function that is currently performed by CDC’s flu surveillance system, which can lag behind real-time flu activity. But what if it were possible to predict flu activity accurately weeks or months in advance for multiple locations? While this is not currently possible, the goal of flu forecasting is to provide a more-timely and forward-looking tool that health officials can use to target medical interventions, inform earlier public health actions, and allocate resources for communications, disease prevention and control. The potential benefits of flu forecasting are significant.
+When and where flu increases will occur, how large the impact of the flu season will be, and when the flu season will peak varies from season to season, making the preparation for and response to the influenza seasons difficult. Flu forecasting can change that by offering the possibility to look into the future and better plan ahead, potentially reducing the impact of flu.
 
-Since 2013, the Influenza Division at the Centers for Disease Control and Prevention has worked with external researchers to improve the science and usability of influenza forecasts by coordinating seasonal influenza prediction challenges for the United States as a whole and for the 10 Health and Human Services Regions. This work includes defining prediction targets, facilitating data access, establishing evaluation metrics to assess accuracy, and developing forecast visualizations.
+To help support the development of the science of flu forecasting and its application for public health, CDC, through the Epidemic Prediction Initiative (EPI), has organized FluSight challenges to forecast the timing, intensity, and short-term activity of the influenza season since the 2013-14 season. These challenges have provided the scientific and public health community experience in real-time forecasting, the ability to evaluate forecast accuracy, and experience in communicating and applying these forecasts in real-world settings. For example, forecasts are currently used to inform CDC’s activity summaries provided to public health officials and CDC leadership and public messaging regarding the timing of the influenza season and how the public can protect themselves and their family.
 
-Multiple outside research teams have developed different flu forecasting models that will provide flu activity forecasts to CDC for the 2017-18 influenza season. This respisitory houses the weekly influenza activity forecasts provided by the various research teams. It’s important to note that these are not CDC forecasts and that the forecasts on this website are not endorsed by CDC. These forecasts are based on different models, can vary significantly, and may be inaccurate.
+As part of the forecasting initiative, CDC has developed, through EPI, the “FluSight” flu forecasting website, which facilitates the real-time sharing and visualization of weekly flu forecasts. Visitors to this site can view current and past forecasts throughout the flu season for the start and peak week, peak intensity, and the near-term activity at the national and regional levels. ILINet data are generally updated every Friday, and forecasts are generally available by Tuesday. During the 2018–19 season, CDC expects forecasting teams to provide over 30 national-level forecasts each week.
 
 # Forecast Targets
-For each week during the season, participants will be asked to provide national and regional probabilistic forecasts for the entire influenza season (seasonal targets) and for the next four weeks (four-week ahead targets). The seasonal targets are the onset week, the peak week, and the peak intensity of the 2017-18 influenza season. The four-week ahead targets are the percent of outpatient visits experiencing influenza-like illness (ILI) one week, two weeks, three weeks, and four weeks ahead from date of the forecast.
+For each week during the season, participants will be asked to provide national and regional probabilistic forecasts for the entire influenza season (seasonal targets) and for the next four weeks (four-week ahead targets). The seasonal targets are the onset week, the peak week, and the peak intensity of the 2018-19 influenza season. The four-week ahead targets are the percent of outpatient visits experiencing influenza-like illness (ILI) one week, two weeks, three weeks, and four weeks ahead from date of the forecast.
 
 ## Onset Week
-**Definition:** The onset of the season is defined as the MMWR surveillance week when the percentage of visits for influenza-like illness (ILI) reported through ILINet reaches or exceeds the baseline value for three consecutive weeks (updated 2017-18 ILINet baseline values for the US and each HHS region will be available the week of October 9, 2017). Forecasted "onset" week values should be for the first week of that three week period.
+**Definition:** The onset of the season is defined as the MMWR surveillance week when the percentage of visits for influenza-like illness (ILI) reported through ILINet reaches or exceeds the baseline value for three consecutive weeks (updated 2018-19 ILINet baseline values for the US and each HHS region will be available the week of October 8, 2018). Forecasted "onset" week values should be for the first week of that three week period.
 
 **Motivation:** Accurate and timely forecasts for the start of the season can be useful in planning for influenza prevention and control activities. For the general public, the start of the season offers an important opportunity to take preventive measures, such as getting vaccinated, before flu becomes widespread. For clinicians and public health authorities, the start of the season indicates that influenza should be high on their list of possible diagnoses for patients with respiratory illness. This is particularly important for the management of hospitalized patients and high-risk patients with suspected influenza when early treatment with influenza antivirals can be critical.
 
 ## Seasonal Peak Week
-**Definition:** The peak week will be defined as the MMWR surveillance week that the weighted ILINet percentage, rounded to one decimal place, is the highest for the 2017-18 influenza season.
+**Definition:** The peak week will be defined as the MMWR surveillance week that the weighted ILINet percentage, rounded to one decimal place, is the highest for the 2018-19 influenza season.
 
 **Motivation:** Accurate and timely forecasts for the peak week can be useful for planning and promoting activities to increase influenza vaccination prior to the bulk of influenza illness. For healthcare, pharmacy, and public health authorities, a forecast for the peak week can guide efficient staff and resource allocation.
 
 ## Seasonal Peak Intensity
-**Definition:** The intensity will be defined as the highest numeric value, rounded to one decimal place, that the weighted ILINet percentage reaches during the 2017-18 influenza season.
+**Definition:** The intensity will be defined as the highest numeric value, rounded to one decimal place, that the weighted ILINet percentage reaches during the 2018-19 influenza season.
 
 **Motivation:** Accurate and timely forecasts for the peak week and intensity of the influenza season can be useful for influenza prevention and control, including the planning and promotion of activities to increase influenza vaccination prior to the bulk of influenza illness. For healthcare, pharmacy, and public health authorities, a forecast for the peak week and intensity can help with appropriate staff and resource allocation since a surge of patients with influenza illness can be expected to seek care and receive treatment in the weeks surrounding the peak.
 
@@ -47,8 +47,40 @@ For all targets, if the correct bin is near the first or last bin, the number of
 
 Example: A forecast predicts there is a probability of 0.2 (i.e. a 20% chance) that the flu season starts on week 44, a 0.3 probability that it starts on week 45, and a 0.1 probability that it starts on week 46 with the other 0.4 (40%) distributed across other weeks according to the forecast. Once the flu season has started, the prediction can be evaluated, and the ILINet data show that the flu season started on week 45. The probabilities for week 44, 45, and 46 would be summed, and the forecast would receive a score of ln(0.6)=−0.51. If the season started on another week, the score would be calculated on the probability assigned to that week plus the values assigned to the preceding and proceeding week.
 
+# R Package
+FluSight Package
+The FluSight R package contains functions to help create and format forecasts, read and verify forecast CSVs, and score forecasts. These are the functions that will be used at CDC to verify and score submitted forecasts. Teams are welcome to use these tools to ensure their forecasts fit the required template and score their forecasts prior to receiving official scores from CDC
+
+The package can be downloaded from [GitHub](https://github.com/jarad/FluSight).
+
+Install and load package
+```
+devtools::install_github("jarad/FluSight")
+library(FluSight)
+```
+Read in entry CSV
+```
+entry <- read_entry("your_csv.csv")
+```
+Verify entry
+```
+verify_entry(entry)
+verify_entry_file("your_csv.csv")
+```
+Create file of observed truth from CDC surveillance data
+```
+truth <- create_truth(fluview = T, year = 2018)
+```
+Expand observed truth to take into account additional bins - 1 bin for weeks, 5 bins for percentage
+```
+exp_truth <- expand_truth(truth, week_expand = 1, percent_expand = 5)
+```
+Score a weekly entry against the observed truth
+```
+exact_scores <- score_entry(entry, truth)
+expand_scores <- score_entry(entry, exp_truth)
+```
 # References
 Gneiting T and AE Raftery. (2007) Strictly proper scoring rules, prediction, and estimation. Journal of the American Statistical Association. 102(477):359-378. Available at: https://www.stat.washington.edu/raftery/Research/PDF/Gneiting2007jasa.pdf
 
 Rosenfeld R, J Grefenstette, and D Burke. (2012) A Proposal for Standardized Evaluation of Epidemiological Models. Available at: http://delphi.midas.cs.cmu.edu/files/StandardizedEvaluationRevised12-11-09.pdf.
-
