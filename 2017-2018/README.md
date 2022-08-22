@@ -47,6 +47,39 @@ For all targets, if the correct bin is near the first or last bin, the number of
 
 Example: A forecast predicts there is a probability of 0.2 (i.e. a 20% chance) that the flu season starts on week 44, a 0.3 probability that it starts on week 45, and a 0.1 probability that it starts on week 46 with the other 0.4 (40%) distributed across other weeks according to the forecast. Once the flu season has started, the prediction can be evaluated, and the ILINet data show that the flu season started on week 45. The probabilities for week 44, 45, and 46 would be summed, and the forecast would receive a score of ln(0.6)=−0.51. If the season started on another week, the score would be calculated on the probability assigned to that week plus the values assigned to the preceding and proceeding week.
 
+# R Package
+FluSight Package
+The FluSight R package contains functions to help create and format forecasts, read and verify forecast CSVs, and score forecasts. These are the functions that will be used at CDC to verify and score submitted forecasts. Teams are welcome to use these tools to ensure their forecasts fit the required template and score their forecasts prior to receiving official scores from CDC
+
+The package can be downloaded from [GitHub](https://github.com/jarad/FluSight).
+
+Install and load package
+```
+devtools::install_github("jarad/FluSight")
+library(FluSight)
+```
+Read in entry CSV
+```
+entry <- read_entry("your_csv.csv")
+```
+Verify entry
+```
+verify_entry(entry)
+verify_entry_file("your_csv.csv")
+```
+Create file of observed truth from CDC surveillance data
+```
+truth <- create_truth(fluview = T, year = 2018)
+```
+Expand observed truth to take into account additional bins - 1 bin for weeks, 5 bins for percentage
+```
+exp_truth <- expand_truth(truth, week_expand = 1, percent_expand = 5)
+```
+Score a weekly entry against the observed truth
+```
+exact_scores <- score_entry(entry, truth)
+expand_scores <- score_entry(entry, exp_truth)
+```
 # References
 Gneiting T and AE Raftery. (2007) Strictly proper scoring rules, prediction, and estimation. Journal of the American Statistical Association. 102(477):359-378. Available at: https://www.stat.washington.edu/raftery/Research/PDF/Gneiting2007jasa.pdf
 
