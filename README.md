@@ -10,9 +10,6 @@ Forecast submissions are organized by season, and within each season by team nam
 * **TeamXX** is the team name/number
 * **YYYY-MM-DD** is the date of forecast submission
 
-### Forecast visualizations
-Visualizations for current week's forecasts can now be found on the FluSight [website](https://predict.phiresearchlab.org/).
-
 ### Forecast structure
 Submissions are structured in an identical matter. Each submission consists of the following variables:
 * **Location:** location of forecast - either entire US or particular HHS Region
@@ -37,4 +34,4 @@ Each submission consists of forecasts for the following targets:
 Baseline weighted ILI values from previous seasons at both the national and HHS regional level are available in the [wILI_Baseline]( https://github.com/cdcepi/FluSight-forecasts/blob/master/wILI_Baseline.csv) CSV file.
 
 ### Current submission template
-The submission template for the 2017-2018 challenge is available in the [2017-2018_submission_template](https://github.com/cdcepi/FluSight-forecasts/blob/master/2017-2018_submission_template.csv) CSV file.
+If you are a modeling team interested in submitting forecasts to this project, please visit our [technical README with detailed submission instructions](https://github.com/cdcepi/Flusight-forecast-data/blob/master/data-forecasts/README.md). 
