@@ -1,0 +1,23 @@
+Update for 2016/2017 EW 51: We have introduced regularization into our model weighting scheme, which uses gradient tree boosting.  For now, weight regularization is done through three parameters; optimal values of those parameters are selected through cross-validation and a single best weighting scheme is selected.  The parameters are the depth of the regression trees used in the gradient tree boosting process, the number of boosting iterations, and the learning rate.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Update for 2016 EW 45: Model number 1 in the original description (below) has been modified to truncate the predictive distributions for onset timing, peak timing, and peak incidence so that values that have been eliminated by previously observed incidence are assigned low probability.  This is done in a very ad hoc manner.  The predictive distribution for the remaining bins is scaled up so that the sum of the predictive probability assigned to all bins equals 1.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Original description:
+
+Team Kernel of Truth is submitting predictions from an ensemble model.  The final predictive distributions are obtained as a weighted average of predictions from three component models:
+
+ 1) A "fixed" model using either Kernel Density Estimation (for season onset week, season peak week, and season peak incidence), or a GAM (for predictions of incidence at horizons 1 to 4 weeks).  The predictions from this model do not change as new data are observed over the course of the season (though the predictions for incidence in individual weeks do depend on the week being predicted), and can be interpreted as a representation of "everything that we have seen in the past".  A separate model fit is obtained for each region.
+
+ 2) A model combining Kernel Conditional Density Estimation (KCDE) and copulas.  KCDE is used to obtain separate predictive densities for each future week in the season.  In order to predict seasonal quantities (onset, peak timing, and peak incidence), we use a copula to model dependence among those individual predicitive densities, thereby obtaining a joint predicitive density for incidence in all future weeks.  Predicitive densities for the seasonal quantities can be obtained as appropriate integrals of this joint density.  A separate model fit is obtained for each region.
+
+ 3) A SARIMA model.  This model is fit to seasonally differenced log(weighted_ili) using a stepwise procedure to select the model specification.  A separate model fit is obtained for each region.
+
+The final predictions are obtained as a linear combination of the predictions from these component models.  The model weights depend on the week of the season in which the predictions are made.  We represent these weights as the softmax transformation of latent functions rho_ilt(season week) where i = 1, ..., 3 indexes the component model, l = 1, ..., 11 indexes the location (national or region 1 through 10), and t = 1, ..., 7 indexes the prediction target.  We estimate those latent functions rho_ilt via gradient tree boosting, optimizing leave-one-season-out crossvalidated log scores (using the definition of log scores specified for this competition).
+
+This year, we are submitting two variations on our model:
+ - KoTstable is a stable version, in which we will hold fixed all details and model fits for the component models as well as the model weights throughout the season.  Because this model will not be updated, we will be able to learn about model performance over the course of the season.
+ - KoTdev is a development version, which we will update over the course of the season.  We have plans for tweaks to all three of the existing component models, the addition of new component models, and changes to computation of the model weights.  This model provides a sandbox for development of new features and continuous improvement of our prediction methodology.  In the first submission week, the predictions from KoTstable and KoTdev are identical.
+
